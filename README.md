@@ -32,9 +32,7 @@ calculator/
 │   └── script.js
 └── README.md
 
-📸 Screenshot
 
-Add a screenshot of your calculator here after uploading it to GitHub.
 
 🎯 Future Improvements
 
